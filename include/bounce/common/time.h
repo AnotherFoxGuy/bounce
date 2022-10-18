@@ -21,7 +21,7 @@
 
 #include <bounce/common/settings.h>
 
-#if defined(__WIN32__)
+#if defined(WIN32)
 
 #include <windows.h>
 
