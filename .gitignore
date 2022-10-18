@@ -30,3 +30,6 @@
 *.i
 *.DS_Store
 build/
+/.idea/
+/cmake-build-*/
+/doc/api/
